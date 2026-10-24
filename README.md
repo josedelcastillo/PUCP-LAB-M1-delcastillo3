@@ -1,4 +1,5 @@
 # PUCP-LAB-M1
+Alumno: Jose Del Castillo
 
 API de inventario en memoria construida con FastAPI y Python 3.12.
 
